@@ -1,0 +1,16 @@
+[
+{
+  "modid": "legacymckotlin",
+  "name": "Legacy Minecraft Kotlin",
+  "description": "Provides Kotlin standard library for Minecraft 1.7.10",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nickolay Ilyushin"],
+  "credits": "Kotlin developers",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
